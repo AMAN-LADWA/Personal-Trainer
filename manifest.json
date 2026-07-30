@@ -1,0 +1,15 @@
+{
+  "name": "Load - training log",
+  "short_name": "Load",
+  "description": "Daily food, training and bodyweight log",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E9ECEF",
+  "theme_color": "#12191F",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
